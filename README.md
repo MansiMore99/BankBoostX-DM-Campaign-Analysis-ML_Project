@@ -1,5 +1,9 @@
 ## 📊 BankBoostX Direct Marketing Campaign Analysis 📈
 
+Hey there!  I'm a Master's student who's passionate about data and its power to improve business strategies. This repository showcases my project on optimizing direct marketing campaigns in the banking sector.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### **Objective:**
 
 
