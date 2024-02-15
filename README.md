@@ -1,6 +1,8 @@
-### 📊 BankBoostX Direct Marketing Campaign Analysis 📈
+# 📊 BankBoostX Direct Marketing Campaign Analysis 📈
 
 **Objective:**
+
+
 🎯 This study, conducted by BankBoostX, aimed to analyze direct marketing campaigns from May 2008 to November 2010 for a Portuguese banking institution, with the goal of enhancing marketing strategies and optimizing resource allocation.
 
 **Data Exploration:**
