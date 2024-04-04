@@ -58,3 +58,7 @@ Hey there!  I'm a Master's student who's passionate about data and its power to 
 
 In conclusion, this analysis offers valuable insights into banking sector marketing campaigns, providing a foundation for informed strategic decision-making.
 🚀 As a Master's student, this project showcases my proficiency in data analysis and my ability to derive actionable insights from complex datasets. 🎓
+
+
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
